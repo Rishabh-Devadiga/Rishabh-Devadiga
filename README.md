@@ -16,7 +16,6 @@
 
 ## 🎯 Current Focus
 
-- Preparing for Data Science internships
 - Building real-world analytics projects
 - Improving problem solving and SQL skills
 - Exploring AI-powered educational tools
