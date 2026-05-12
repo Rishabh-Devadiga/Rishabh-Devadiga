@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rishabh 👋
 
-<!--
-**Rishabh-Devadiga/Rishabh-Devadiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student specializing in AI & Data Science  
+📊 Interested in Data Analytics, Machine Learning, and AI Applications  
+🚀 Building projects using Python, SQL, Power BI, Streamlit, and ML  
+🌱 Currently learning advanced data modeling and dashboard development
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Python, SQL, C++, Java
+- Data Analytics: Power BI, Excel, Pandas, NumPy
+- Machine Learning: Scikit-learn, TensorFlow
+- Visualization: Matplotlib, Seaborn
+- Web/App: Streamlit
+- Tools: Git, GitHub, VS Code
+
+## 🎯 Current Focus
+
+- Preparing for Data Science internships
+- Building real-world analytics projects
+- Improving problem solving and SQL skills
+- Exploring AI-powered educational tools
+
+  ## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/rishabh-devadiga-6584b5302/
+- Email: devadigarishabh@gmail.com
