@@ -7,7 +7,7 @@
 
 ## 🛠 Tech Stack
 
-- Languages: Python, SQL, C++, Java
+- Languages: Python, SQL, C++
 - Data Analytics: Power BI, Excel, Pandas, NumPy
 - Machine Learning: Scikit-learn, TensorFlow
 - Visualization: Matplotlib, Seaborn
