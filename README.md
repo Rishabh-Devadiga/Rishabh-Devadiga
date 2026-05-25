@@ -9,7 +9,7 @@
 
 - Languages: Python, SQL, C++
 - Data Analytics: Power BI, Excel, Pandas, NumPy
-- Machine Learning: Scikit-learn, TensorFlow
+- Machine Learning: Scikit-learn
 - Visualization: Matplotlib, Seaborn
 - Web/App: Streamlit
 - Tools: Git, GitHub, VS Code
