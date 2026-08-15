@@ -39,31 +39,41 @@ I enjoy working across the entire data science pipeline, from collecting and cle
 
 ## 📂 Featured Projects
 
-### 🌾 AgriIntel AI
-An AI-powered agriculture platform that helps farmers make informed decisions through intelligent insights, predictive analytics, and data-driven recommendations.
+### Saarthi.AI — AI-Powered Personal Learning Platform
+Built a multi-agent AI learning platform using CrewAI, Gemini, and FastAPI that collects a user's career goal, current skill
+level, available time, and target deadline to generate a personalized learning roadmap.
 
-**Tech Stack:** Python, Streamlit, Pandas, Scikit-learn
+**Tech Stack:** 
+- AI / Agentic AI: Python, CrewAI, Google Gemini
+- Backend: FastAPI, SQLAlchemy, PostgreSQL
+- Frontend: React, TypeScript, Vite, Tailwind CSS
 
 ---
-### 💳 AI Loan Default Prediction
+
+### Supply Chain Analytics Dashboard
+Built interactive Power BI dashboards to visualize supply chain performance, inventory metrics, and business insights.
+
+**Tech Stack:** Power BI, Excel
+
+---
+### AI Loan Default Prediction
 Developed machine learning models to predict loan defaults through data preprocessing, feature engineering, and model evaluation.
 
 **Tech Stack:** Python, Scikit-learn, Pandas
 
 ---
 
-### 🎬 Movie Recommendation System
-A content-based movie recommendation system built using TF-IDF and Cosine Similarity with TMDB API integration.
+### AgriIntel AI
+An AI-powered agriculture platform that helps farmers make informed decisions through intelligent insights, predictive analytics, and data-driven recommendations.
 
-**Tech Stack:** Python, Streamlit, Scikit-learn, Pandas, TMDB API
-
+**Tech Stack:** Python, Streamlit, Pandas, Scikit-learn
 
 ---
 
-### 📦 Supply Chain Analytics Dashboard
-Built interactive Power BI dashboards to visualize supply chain performance, inventory metrics, and business insights.
+### Movie Recommendation System
+A content-based movie recommendation system built using TF-IDF and Cosine Similarity with TMDB API integration.
 
-**Tech Stack:** Power BI, Excel
+**Tech Stack:** Python, Streamlit, Scikit-learn, Pandas, TMDB API
 
 ---
 
